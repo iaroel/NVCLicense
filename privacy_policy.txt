@@ -1,0 +1,15 @@
+Privacy Policy for NED Vendor Companion
+Effective Date: 11/09/2024
+NED Vendor Companion is committed to protecting your privacy. This Privacy Policy outlines how we handle your information.
+1. Information Collection
+NED Vendor Companion does not collect or store any personal information on external servers. The application only saves user credentials locally on the user's computer.
+2. Data Storage
+All user credentials are encrypted and stored securely on the user's device. We use industry-standard encryption techniques to ensure the protection of this information.
+3. Third-Party Sharing
+NED Vendor Companion does not share, sell, or transfer any user information to third parties under any circumstances.
+4. Data Security
+We are committed to protecting your data and take appropriate security measures to safeguard your information. However, users are responsible for ensuring that their devices are secure.
+5. User Control
+Users can delete or modify their stored credentials directly through the application.
+6. Changes to this Policy
+We may update this Privacy Policy periodically. Any changes will be reflected in the updated version of the policy within the application.
